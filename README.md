@@ -14,6 +14,10 @@ If you want to get an overal idea, such as where most crowdy stations located. A
 
 https://public.tableau.com/app/profile/raju.roy#!/
 
+# Web-App based on this analysis and prediction:
+
+https://share.streamlit.io/rajujanus/bicycle_hiring_app_deployed/webapp.py
+
 # Technologies: 
 
 Pandas, Seaborn, Numpy, Facebook Prophet, Tableau etc.
@@ -41,7 +45,7 @@ Most popular routes? Visualize!
 #### Iteration 3: Try the same with a larger dataset Now we look at a dataset that is larger and which contains bike hiring stats from 2010 to present.
 #### Iteration 4: Tune the model with on and off season
 #### Iteration 5: Validate the model (Cross validation): Create Train and Test dataset from available data based on years, look at the change points of the trend and then perform cross validation
-#### Iteration 5(crossvalidation part):Cross validation and check Performance by using Mean Absolute Error
+#### Iteration 5, second part: check Performance by using Mean Absolute Error (Cross validation)
 #### Iteration 6: Multivariate time series prediction. We import temperature column and also consider it for the modeling and predictions
 #### Iteration 7: Train the model with only Temperature as regressor without modification to see if it even performs better.
 But it seems no improvement. Though the model already performs pretty well with MAPE ranging from 0.2 to 0.4 -->

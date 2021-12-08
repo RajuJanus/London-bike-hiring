@@ -47,7 +47,7 @@ Most popular routes? Visualize!
 #### Iteration 5: Validate the model (Cross validation): Create Train and Test dataset from available data based on years, look at the change points of the trend and then perform cross validation
 #### Iteration 5, second part: check Performance by using Mean Absolute Error (Cross validation)
 #### Iteration 6: Multivariate time series prediction. We import temperature column and also consider it for the modeling and predictions
-#### Iteration 7: Train the model with only Temperature as regressor without modification to see if it even performs better.
+#### Iteration 7: Sum everything up and train the model again. Also test how the model performance without temperature modifications
 But it seems no improvement. Though the model already performs pretty well with MAPE ranging from 0.2 to 0.4 -->
 
 

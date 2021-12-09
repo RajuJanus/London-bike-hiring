@@ -1,5 +1,5 @@
 # Time series analysis and predictions on London Bike Hiring Dataset
-London is a crowdy city. An analysis and prediction on bike hiring/ bike traffic on daily basis can benifit many industries. 
+London is a crowded city. An analysis and prediction on bike hiring/ bike traffic on daily basis can benifit many industries. 
 
 ## Aims: 
    ### Doing an exploratory analyis.

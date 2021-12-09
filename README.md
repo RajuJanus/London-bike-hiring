@@ -52,6 +52,7 @@ But it seems no improvement. Though the model already performs pretty well with 
 
 
 # Data
+
 The first dataset was downloaded from publicly available dataset 'London Bicycle Hire' in Bigquery.
 
 (https://console.cloud.google.com/marketplace/product/greater-london-authority/london-bicycles?project=fit-shift-332509)
@@ -60,5 +61,7 @@ This is a big dataset and it was downloaded by chunks and added together. Also t
 
 The second dataset was downloaded from London data store (https://data.london.gov.uk/dataset/number-bicycle-hires) which contains the daily number of bicycle hire from 2010 to present.
 
+I have compiled all the data in a google drive folder and can be downloaded here
+(https://drive.google.com/drive/folders/1gtCTDjOvfX77ZIA7uIUHybrTY78GRHzn?usp=sharing)
 
 
